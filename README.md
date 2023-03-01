@@ -2,5 +2,6 @@
 Encrypt and Decrypt with a substitution cipher
 
 # How to use:
-* Input your substitution key mapping(Read file "key.txt" for example)
-* Then enter the message you want to encrypt or decrypt
+* Usage: <encrypt/decrypt(e/d)> <substitution map file> <string input(plain/cipher text)
+* Choose e or d for encrypt or decrypt, enter name of your substitution cipher text file, enter text you wish to encrypt/decrypt
+EX: ./substitution e key.txt intrapneumonoultramicroscopicsilicovolcanoconiosis
